@@ -1,2 +1,3 @@
-<img width="574" height="446" alt="image" src="https://github.com/user-attachments/assets/65c0d18b-f090-4dbe-89d0-3b8cafa4eb44" />
+<img width="630" height="600" alt="image" src="https://github.com/user-attachments/assets/a9d9a021-7451-4047-b035-ded07c727aff" />
+
 One stage amplifier simulation in Cadence Virtuoso
